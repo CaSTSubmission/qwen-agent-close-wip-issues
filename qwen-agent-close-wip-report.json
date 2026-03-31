@@ -1,0 +1,41 @@
+{
+  "analysis_date": "2026-03-31",
+  "total_repositories_analyzed": 15,
+  "repository_stats": {
+    "QwenLM/Qwen-Agent": 2,
+    "QwenLM/Qwen": 0,
+    "QwenLM/Qwen3.5": 0,
+    "QwenLM/Qwen3-Coder": 0,
+    "QwenLM/qwen-code": 0,
+    "QwenLM/Qwen-Image": 0,
+    "QwenLM/Qwen3-VL": 0,
+    "QwenLM/Qwen3-ASR": 0,
+    "QwenLM/Qwen3-TTS": 0,
+    "QwenLM/Qwen3-Omni": 0,
+    "QwenLM/Qwen-VL": 0,
+    "QwenLM/Qwen-Audio": 0,
+    "QwenLM/Qwen2-Audio": 0,
+    "QwenLM/Qwen-Cookbook": 0,
+    "QwenLM/Qwen2.5-Math": 0
+  },
+  "total_closed_wip_issues": 2,
+  "analysis_summary": "The 'Work in Progress' label appears to be specifically used in the Qwen-Agent repository to track feature development from conception to completion. This focused approach in the agent framework repository demonstrates intentional tracking of the development journey in the open-source ecosystem.",
+  "sample_wip_issues": [
+    {
+      "repository": "QwenLM/Qwen-Agent",
+      "issue_number": 216,
+      "title": "开源的qwen模型是否支持function call",
+      "created": "2024-06-24T02:56:24Z",
+      "closed": "2024-0629T14:31:00Z",
+      "duration_days": 5
+    },
+    {
+      "repository": "QwenLM/Qwen-Agent",
+      "issue_number": 102,
+      "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+      "created": "2024-03-27T09:05:35Z",
+      "closed": "2024-04-08T06:54:22Z",
+      "duration_days": 12
+    }
+  ]
+}
